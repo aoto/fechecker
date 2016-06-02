@@ -1,0 +1,15 @@
+body {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.add-form {
+  width: 600px;
+  padding: 10px;
+}
+
+.add-form .mdl-textfield {
+  display: block;
+  width:100%;
+}
+

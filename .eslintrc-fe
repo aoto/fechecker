@@ -1,0 +1,22 @@
+{
+  "globals": {
+    "Vue": true
+  },
+  "env": {
+    "browser": true,
+    "jquery": true,
+    "node": true
+  },
+  "plugins": [
+    "react",
+    "html"
+  ],
+  "extends": [
+    "airbnb"
+    // "airbnb-base/legacy"
+  ],
+  "rules": {
+    "comma-dangle": [2, "never"],
+    "no-console": 0
+  }
+}
